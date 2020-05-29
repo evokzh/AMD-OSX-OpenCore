@@ -15,7 +15,7 @@ Kernel binary patches to enable almost native AMD CPU support on macOS.
 ### Supported Nativ for
 | Product | Codename| Example |
 |--------|---------|----------|
-| CPU | ZEN | R5 1500
+| CPU | ZEN | R5 1600AF
 | GPU | Polaris| RX 580 4GB
 
 ### Supported macOS versions
