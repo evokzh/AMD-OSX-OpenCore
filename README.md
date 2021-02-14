@@ -21,12 +21,11 @@ Kernel binary patches to enable almost native AMD CPU support on macOS.
 ### Supported macOS versions
 - High Sierra 10.13.x
 - Mojave 10.14.x
-- Catalina 10.15.x (used current)
+- Catalina 10.15.x
+- Big Sur 11.X (used current)
 
 ### Instructions
-- Download gibmacOS and Download with -R Catalina 10.15.4
-- Create USB Installer with gibmacOS and select OpenCore
-- Download for my repo and paste in the EFI/OC and follow the docs
+Read https://dortania.github.io/OpenCore-Desktop-Guide/
 
 
 ### Special Notes
