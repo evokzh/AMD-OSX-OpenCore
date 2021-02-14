@@ -1,4 +1,7 @@
 <span align="center">
+  
+<img src="https://github.com/evokzh/AMD-OSX-OpenCore/blob/master/20210214_201244.jpg?raw=true"> 
+  
 <h1>AMD Vanilla OpenCore Bootloader</h1>
 </span>
 
